@@ -34,9 +34,9 @@ jsp을 사용한 회원들은 자유롭게 판매자가 올린 밀키트를 주�
 
 ## 2. 기술
 1. Web Front : `HTML5` , `CSS`, `JavaScript`, `Jquery` , `Ajax`
-2. Web Server :  `Java`, `ApacheTomcat`
+2. Web Server :  `Tomcat`
 3. DBMS : `Oracle DB`
-4. 개발환경 : `Eclipse, Spring framework`
+4. 개발환경 : `Eclipse, Spring framework, Java`
 
 
 ## 3. Use Case
