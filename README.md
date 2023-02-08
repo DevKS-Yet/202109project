@@ -34,9 +34,10 @@
 
 ## 2. 기술
 1. Web Front : `HTML5` , `CSS`, `JavaScript`, `Jquery` , `Ajax`
-2. Web Server :  `Tomcat`
-3. DBMS : `Oracle DB`
-4. 개발환경 : `Eclipse, Spring framework, Java`
+2. Web Server :  `Apache`
+3. Web Application Server : 'Tomcat'
+4. DBMS : `Oracle DB`
+5. 개발환경 : `Eclipse, Spring framework, Java`
 
 
 ## 3. Use Case
